@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">{atmosware}</string>
+    <string name="hello_text">Hello Atmosware!</string>
+    <string name="first_launch">İlk Açılış</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="nav_activity">Nav Activity</string>
+    <string name="broadcast_activity">Broadcast Activity</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="button_text">Second Fragment</string>
+    <string name="go_activity">Activity\' ye git!</string>
+    <string name="second_fragment_title">First fragment\'ten yollanan değerler:</string>
+    <string name="second_fragment_received_text">First fragment\'ten yollanan; \n\t Ad değeri: %1$s \n\t Number değeri: %2$d</string>
+</resources>
